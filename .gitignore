@@ -1,0 +1,19 @@
+# Project data
+csv/
+images/
+*.csv
+
+# Local Python environment and caches
+.wslvenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
